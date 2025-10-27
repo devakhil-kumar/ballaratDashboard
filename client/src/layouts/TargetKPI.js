@@ -49,7 +49,7 @@ const TargetKPI = () => {
   };
 
   const [formData, setFormData] = useState(defaultFormData);
-  const [selectedLocation, setSelectedLocation] = useState('TRARALGON');
+  const [selectedLocation, setSelectedLocation] = useState('LET Ballarat');
   const [selectedFortnight, setSelectedFortnight] = useState();
   const [fromDate, setFromDate] = useState('');
   const [toDate, setToDate] = useState('');
@@ -270,10 +270,10 @@ const TargetKPI = () => {
                 size="small"
                 disabled={isDemo}
               >
-                <MenuItem value="all-store">All Stores</MenuItem>
-                <MenuItem value="TRARALGON">TRARALGON</MenuItem>
+                <MenuItem value="LET Ballarat">LET Ballarat</MenuItem>
+                {/* <MenuItem value="TRARALGON">TRARALGON</MenuItem>
                 <MenuItem value="WARRAGUL">WARRAGUL</MenuItem>
-                <MenuItem value="TORQUAY">TORQUAY</MenuItem>
+                <MenuItem value="TORQUAY">TORQUAY</MenuItem> */}
               </Select>
             </FormControl>
 
