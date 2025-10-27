@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e2752dbf.css",
+    "main.js": "/static/js/main.b22ead44.js",
+    "static/js/453.68693753.chunk.js": "/static/js/453.68693753.chunk.js",
+    "static/media/sidealpha.png": "/static/media/sidealpha.bcac49f1ba2202dd35c3.png",
+    "static/media/alphametriclogin.png": "/static/media/alphametriclogin.7b469744006c97d5c249.png",
+    "static/media/alphametricw.png": "/static/media/alphametricw.f6b559db2923067f92db.png",
+    "index.html": "/index.html",
+    "main.e2752dbf.css.map": "/static/css/main.e2752dbf.css.map",
+    "main.b22ead44.js.map": "/static/js/main.b22ead44.js.map",
+    "453.68693753.chunk.js.map": "/static/js/453.68693753.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2752dbf.css",
+    "static/js/main.b22ead44.js"
+  ]
+}
